@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #7e92a7;
+    color: white;
+  }
+  
+  img {
+    max-height: 400px;
+    margin-bottom: 20px;
+  }
+  
+  article h2 {
+    margin-top: 20px;
+    font-size: 1.8rem;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+    margin-top: 50px;
+  }
+  
